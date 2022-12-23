@@ -128,7 +128,7 @@
 
 <!-- follow me template -->
 <div class="made-with-love">
-  <h2>Made sincerely by Patricia Indry</h2>
+  <h2>Made sincerely by Patricia Indry & Wilbert Chandra</h2>
 </div>
 
     <!-- script untuk fungsi bar navigasi atas pada halaman index/halaman utama (home)  -->
